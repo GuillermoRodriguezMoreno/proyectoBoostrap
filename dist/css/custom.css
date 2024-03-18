@@ -1,0 +1,20 @@
+/* 
+* Margen para ajustar el espacio en blanco entre el nav 
+* y el contenido al usar posicionamiento fixed
+*/
+.marginNav {
+  margin-top: 80px; }
+
+/*
+* Sombra para que el texto sea legible en fondo claro
+*/
+.red-text-shadow {
+  text-shadow: 0 0 3px #FF0000; }
+
+/*
+* gradiente para la cabecera de los perfiles
+*/
+.red-bg-gradient {
+  background: linear-gradient(to right, #660000 0%, #861823 25%, #ad1a29 50%, #861823 75%, #660000 100%); }
+
+/*# sourceMappingURL=custom.css.map */
